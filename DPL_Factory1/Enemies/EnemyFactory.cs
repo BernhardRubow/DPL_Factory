@@ -20,10 +20,12 @@ namespace DPL_Factory1.Enemies
 
         public IEnemy CreateInstance(string enemyName)
         {
-            if (!enemies.ContainsKey(enemyName)) return null;
+            // using null object design pattern
+            var t = enemies.ContainsKey(enemyName) 
+                ? enemies[enemyName]
+                : typeof(NullEnemy);
 
-            Type t = enemies[enemyName];
-
+            // return a new instance like using 'new'
             return Activator.CreateInstance(t) as IEnemy;
         }
 

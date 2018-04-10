@@ -62,6 +62,7 @@
     <Compile Include="Enemies\IEnemy.cs" />
     <Compile Include="Enemies\Assault.cs" />
     <Compile Include="Enemies\Bomber.cs" />
+    <Compile Include="Enemies\NullEnemy.cs" />
     <Compile Include="Enemies\Scout.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
