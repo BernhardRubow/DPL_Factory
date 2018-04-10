@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DPL_Factory2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EnemyFactory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DPL_Factory2.Factories.AssaultFactory</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

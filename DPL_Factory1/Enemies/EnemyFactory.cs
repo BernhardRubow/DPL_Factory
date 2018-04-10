@@ -13,11 +13,18 @@ namespace DPL_Factory1.Enemies
         private Dictionary<string, Type> enemies;
 
 
+
+
+        // +++ life cycle +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
         public EnemyFactory()
         {
             LoadEnemyTypesThatCanBeProduced();
         }
 
+
+
+
+        // +++ public methods +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
         public IEnemy CreateInstance(string enemyName)
         {
             // using null object design pattern
