@@ -1,0 +1,6 @@
+D:\FileServer\Repositories\spikeprojects\DPL_Factory\DPL_Factories\DPL_Factory3\bin\Debug\DPL_Factory3.exe.config
+D:\FileServer\Repositories\spikeprojects\DPL_Factory\DPL_Factories\DPL_Factory3\bin\Debug\DPL_Factory3.exe
+D:\FileServer\Repositories\spikeprojects\DPL_Factory\DPL_Factories\DPL_Factory3\bin\Debug\DPL_Factory3.pdb
+D:\FileServer\Repositories\spikeprojects\DPL_Factory\DPL_Factories\DPL_Factory3\obj\Debug\DPL_Factory3.exe
+D:\FileServer\Repositories\spikeprojects\DPL_Factory\DPL_Factories\DPL_Factory3\obj\Debug\DPL_Factory3.pdb
+D:\FileServer\Repositories\spikeprojects\DPL_Factory\DPL_Factories\DPL_Factory3\obj\Debug\DPL_Factory3.csprojResolveAssemblyReference.cache

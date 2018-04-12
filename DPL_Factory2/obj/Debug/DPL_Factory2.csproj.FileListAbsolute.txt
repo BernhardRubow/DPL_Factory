@@ -1,5 +1,0 @@
-D:\00_repositories\SpikeProjects\009_factories\DPL_Factory2\bin\Debug\DPL_Factory2.exe.config
-D:\00_repositories\SpikeProjects\009_factories\DPL_Factory2\bin\Debug\DPL_Factory2.exe
-D:\00_repositories\SpikeProjects\009_factories\DPL_Factory2\bin\Debug\DPL_Factory2.pdb
-D:\00_repositories\SpikeProjects\009_factories\DPL_Factory2\obj\Debug\DPL_Factory2.exe
-D:\00_repositories\SpikeProjects\009_factories\DPL_Factory2\obj\Debug\DPL_Factory2.pdb
